@@ -1,0 +1,15 @@
+{
+  "day": "Tuesday",
+  "title": "🦵 腿部训练 & 臀部强化",
+  "author": "Leslie",
+  "exercises": [
+    { "id": "barbell_squat", "name": "杠铃深蹲", "sets": 4, "reps": "8-10", "tips": "脚尖外展，膝盖追随脚尖方向，保持腰背挺直" },
+    { "id": "leg_press", "name": "腿举", "sets": 4, "reps": "10-12", "tips": "脚放高位激活臀部，全程不要锁膝" },
+    { "id": "romanian_deadlift", "name": "罗马尼亚硬拉", "sets": 4, "reps": "8-10", "tips": "髋关节主导发力，感受腘绳肌拉伸" },
+    { "id": "hip_thrust", "name": "臀推", "sets": 4, "reps": "10-12", "tips": "顶部骨盆后倾，充分挤压臀部" },
+    { "id": "leg_curl", "name": "腿弯举", "sets": 3, "reps": "10-12", "tips": "离心慢放，感受腘绳肌拉长" },
+    { "id": "leg_extension", "name": "腿伸展", "sets": 3, "reps": "12-15", "tips": "顶部锁定保持1秒，充分收缩股四头肌" },
+    { "id": "sumo_squat", "name": "相扑深蹲", "sets": 3, "reps": "12-15", "tips": "宽站距激活内收肌和臀部" },
+    { "id": "standing_calf_raise", "name": "站姿提踵", "sets": 4, "reps": "15-20", "tips": "顶部停顿，完全伸展跟腱" }
+  ]
+}

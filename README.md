@@ -13,14 +13,15 @@ squad-workout-repo/
 ├── .github/workflows/pages-deploy.yml
 ├── data/
 │   ├── index.json
-│   ├── shoulder.json
-│   ├── back.json
-│   └── leg.json
+│   ├── monday.json
+│   ├── tuesday.json
+│   ├── wednesday.json
+│   ├── thursday.json
+│   └── friday.json
 ├── assets/
 │   ├── css/style.css
 │   └── js/app.js
 ├── index.html
-├── .gitignore
 └── README.md
 ```
 

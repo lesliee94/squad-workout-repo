@@ -1,0 +1,16 @@
+{
+  "day": "Wednesday",
+  "title": "🛡️ 背部训练 & 二头强化",
+  "author": "Leslie",
+  "exercises": [
+    { "id": "pull_up", "name": "引体向上", "sets": 4, "reps": "6-10", "tips": "肩胛骨下沉后收，手肘拉向腰部" },
+    { "id": "barbell_row", "name": "杠铃划船", "sets": 4, "reps": "8-10", "tips": "上体前倾45度，引体至腹部" },
+    { "id": "cable_row", "name": "绳索坐姿划船", "sets": 4, "reps": "10-12", "tips": "肩胛骨充分内收，挤压背部肌肉" },
+    { "id": "lat_pulldown", "name": "下拉背阔肌", "sets": 4, "reps": "10-12", "tips": "宽握，向胸部下拉，感受背阔肌收缩" },
+    { "id": "single_arm_row", "name": "单臂哑铃划船", "sets": 3, "reps": "10-12", "tips": "充分旋转肩胛骨，最大范围运动" },
+    { "id": "face_pull", "name": "面拉", "sets": 3, "reps": "15", "tips": "外旋肩关节，激活后三角和肩袖" },
+    { "id": "barbell_curl", "name": "杠铃弯举", "sets": 4, "reps": "8-10", "tips": "肘部固定，顶部挤压二头肌" },
+    { "id": "hammer_curl", "name": "锤式弯举", "sets": 3, "reps": "10-12", "tips": "激活肱肌和前臂，控制离心" },
+    { "id": "incline_db_curl", "name": "斜板哑铃弯举", "sets": 3, "reps": "10-12", "tips": "二头肌完全伸展，增大训练范围" }
+  ]
+}

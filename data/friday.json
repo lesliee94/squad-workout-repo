@@ -1,0 +1,16 @@
+{
+  "day": "Friday",
+  "title": "⛓️ 后侧链训练 & 核心强化",
+  "author": "Leslie",
+  "exercises": [
+    { "id": "conventional_deadlift", "name": "传统硬拉", "sets": 4, "reps": "5-6", "tips": "中立脊柱，髋关节主导，感受全身张力" },
+    { "id": "good_morning", "name": "早安式体前屈", "sets": 3, "reps": "10-12", "tips": "膝盖微弯，主攻腘绳肌和竖脊肌" },
+    { "id": "reverse_hyper", "name": "反向超伸", "sets": 3, "reps": "12-15", "tips": "激活臀肌和腘绳肌，保护腰椎" },
+    { "id": "nordic_curl", "name": "北欧腘绳肌弯举", "sets": 3, "reps": "6-8", "tips": "离心阶段慢放，腘绳肌抗阻拉长" },
+    { "id": "plank", "name": "平板支撑", "sets": 3, "reps": "60秒", "tips": "腹部收紧，臀部不要翘起或下塌" },
+    { "id": "dead_bug", "name": "死虫式", "sets": 3, "reps": "10/侧", "tips": "腰椎贴地，对侧手脚延伸，控制呼吸" },
+    { "id": "cable_woodchop", "name": "绳索伐木", "sets": 3, "reps": "12/侧", "tips": "旋转来自胸椎，核心保持稳定" },
+    { "id": "ab_wheel", "name": "腹轮", "sets": 3, "reps": "8-10", "tips": "腰背全程平直，核心全程收紧" },
+    { "id": "hanging_leg_raise", "name": "悬挂举腿", "sets": 3, "reps": "10-15", "tips": "骨盆后倾引导，感受下腹发力" }
+  ]
+}

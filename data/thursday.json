@@ -1,0 +1,15 @@
+{
+  "day": "Thursday",
+  "title": "🔥 胸部训练 & 三头强化",
+  "author": "Leslie",
+  "exercises": [
+    { "id": "barbell_bench_press", "name": "杠铃卧推", "sets": 4, "reps": "6-8", "tips": "肩胛骨收紧，脚踩实地面，爆发式推起" },
+    { "id": "incline_db_press", "name": "上斜哑铃推举", "sets": 4, "reps": "8-10", "tips": "30-45度角，主攻上胸，顶部不锁臂" },
+    { "id": "cable_fly", "name": "绳索夹胸", "sets": 4, "reps": "12-15", "tips": "双臂向内弧线运动，感受胸肌中缝收缩" },
+    { "id": "decline_press", "name": "下斜推举", "sets": 3, "reps": "10-12", "tips": "激活下胸，保持肩胛骨稳定" },
+    { "id": "chest_dip", "name": "胸部双杠臂屈伸", "sets": 3, "reps": "8-12", "tips": "上体前倾，感受胸肌下部拉伸" },
+    { "id": "close_grip_bench", "name": "窄握卧推", "sets": 4, "reps": "8-10", "tips": "双手与肩同宽，主攻三头，保持手肘内夹" },
+    { "id": "overhead_tri_extension", "name": "哑铃颈后臂屈伸", "sets": 3, "reps": "10-12", "tips": "三头长头完全拉伸，慢放快推" },
+    { "id": "cable_pushdown", "name": "绳索下压", "sets": 3, "reps": "12-15", "tips": "上臂固定，底部向两侧撕开" }
+  ]
+}

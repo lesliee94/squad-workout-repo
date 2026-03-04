@@ -1,1 +1,17 @@
-{\n  "day": "Monday",\n  "title": "🔥 肩部轰炸 & 三头强化",\n  "author": "Leslie",\n  "exercises": [\n    { "id": "reverse_pec_deck", "name": "蝴蝶机反向飞鸟", "sets": 4, "reps": "10-12", "tips": "手肘引导，严禁背部代偿夹紧" },\n    { "id": "rope_face_pull", "name": "绳索面拉", "sets": 4, "reps": "10-12", "tips": "手腕高于手肘，像在耳边炫耀二头肌" },\n    { "id": "seated_lateral_raise", "name": "坐姿哑铃侧平举", "sets": 4, "reps": "8-12", "tips": "身体微前倾，向身体两侧偏前抛出" },\n    { "id": "cable_lateral_raise", "name": "单臂绳索侧平举", "sets": 3, "reps": "10-12", "tips": "身体微外倾，离心慢放是关键" },\n    { "id": "lean_away_lateral", "name": "倾斜哑铃侧平举", "sets": 3, "reps": "10-12", "tips": "屏蔽斜方肌代偿" },\n    { "id": "seated_db_press", "name": "坐姿哑铃推举", "sets": 4, "reps": "8-10", "tips": "推起呼气，顶部哑铃不相撞" },\n    { "id": "db_front_raise", "name": "哑铃前平举", "sets": 3, "reps": "10-12", "tips": "严禁摇晃借力" },\n    { "id": "v_bar_pushdown", "name": "V把高位下压", "sets": 4, "reps": "8-12", "tips": "底部锁定，顺势挤压胸内侧" },\n    { "id": "overhead_extension", "name": "绳索颈后臂屈伸", "sets": 3, "reps": "10-12", "tips": "感受三头长头极限拉伸" },\n    { "id": "rope_pushdown", "name": "双头绳下压", "sets": 3, "reps": "10-12", "tips": "底部向两侧撕开" }\n  ]\n}
+{
+  "day": "Monday",
+  "title": "🔥 肩部轰炸 & 三头强化",
+  "author": "Leslie",
+  "exercises": [
+    { "id": "reverse_pec_deck", "name": "蝴蝶机反向飞鸟", "sets": 4, "reps": "10-12", "tips": "手肘引导，严禁背部代偿夹紧" },
+    { "id": "rope_face_pull", "name": "绳索面拉", "sets": 4, "reps": "10-12", "tips": "手腕高于手肘，像在耳边炫耀二头肌" },
+    { "id": "seated_lateral_raise", "name": "坐姿哑铃侧平举", "sets": 4, "reps": "8-12", "tips": "身体微前倾，向身体两侧偏前抛出" },
+    { "id": "cable_lateral_raise", "name": "单臂绳索侧平举", "sets": 3, "reps": "10-12", "tips": "身体微外倾，离心慢放是关键" },
+    { "id": "lean_away_lateral", "name": "倾斜哑铃侧平举", "sets": 3, "reps": "10-12", "tips": "屏蔽斜方肌代偿" },
+    { "id": "seated_db_press", "name": "坐姿哑铃推举", "sets": 4, "reps": "8-10", "tips": "推起呼气，顶部哑铃不相撞" },
+    { "id": "db_front_raise", "name": "哑铃前平举", "sets": 3, "reps": "10-12", "tips": "严禁摇晃借力" },
+    { "id": "v_bar_pushdown", "name": "V把高位下压", "sets": 4, "reps": "8-12", "tips": "底部锁定，顺势挤压胸内侧" },
+    { "id": "overhead_extension", "name": "绳索颈后臂屈伸", "sets": 3, "reps": "10-12", "tips": "感受三头长头极限拉伸" },
+    { "id": "rope_pushdown", "name": "双头绳下压", "sets": 3, "reps": "10-12", "tips": "底部向两侧撕开" }
+  ]
+}

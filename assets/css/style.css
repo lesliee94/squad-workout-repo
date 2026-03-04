@@ -1,0 +1,138 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  background: #f5f5f5;
+  color: #333;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+header {
+  background: #1a1a2e;
+  color: #fff;
+  padding: 1.5rem 2rem;
+  text-align: center;
+}
+
+header h1 {
+  font-size: 1.8rem;
+  margin-bottom: 0.25rem;
+}
+
+header p {
+  font-size: 0.95rem;
+  opacity: 0.7;
+}
+
+#day-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  justify-content: center;
+  background: #16213e;
+  padding: 1rem;
+}
+
+#day-nav button {
+  background: transparent;
+  border: 2px solid rgba(255,255,255,0.3);
+  border-radius: 8px;
+  color: #fff;
+  cursor: pointer;
+  font-size: 0.9rem;
+  padding: 0.5rem 1rem;
+  transition: background 0.2s, border-color 0.2s;
+}
+
+#day-nav button:hover {
+  background: rgba(255,255,255,0.1);
+  border-color: rgba(255,255,255,0.6);
+}
+
+#day-nav button.active {
+  background: #e94560;
+  border-color: #e94560;
+}
+
+main {
+  flex: 1;
+  max-width: 860px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+  width: 100%;
+}
+
+.placeholder {
+  text-align: center;
+  color: #999;
+  margin-top: 4rem;
+  font-size: 1.1rem;
+}
+
+.workout-header {
+  margin-bottom: 1.5rem;
+}
+
+.workout-header h2 {
+  font-size: 1.5rem;
+  color: #1a1a2e;
+}
+
+.workout-header .meta {
+  font-size: 0.85rem;
+  color: #888;
+  margin-top: 0.25rem;
+}
+
+.exercise-list {
+  display: grid;
+  gap: 1rem;
+}
+
+.exercise-card {
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  padding: 1.25rem 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+
+.exercise-card .exercise-name {
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: #1a1a2e;
+}
+
+.exercise-card .exercise-meta {
+  font-size: 0.85rem;
+  color: #555;
+}
+
+.exercise-card .exercise-meta span {
+  margin-right: 1rem;
+}
+
+.exercise-card .exercise-tips {
+  font-size: 0.85rem;
+  color: #888;
+  border-left: 3px solid #e94560;
+  padding-left: 0.75rem;
+  margin-top: 0.25rem;
+}
+
+@media (max-width: 600px) {
+  header h1 {
+    font-size: 1.4rem;
+  }
+  .exercise-card {
+    padding: 1rem;
+  }
+}
