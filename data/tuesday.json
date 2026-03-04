@@ -1,0 +1,13 @@
+{
+  "day": "Tuesday",
+  "title": "🦵 魔鬼腿部 & 臀部激活",
+  "author": "Leslie",
+  "exercises": [
+    { "id": "barbell_squat", "name": "杠铃后深蹲", "sets": 4, "reps": "6-8", "tips": "核心极度收紧，全脚掌蹬地" },
+    { "id": "leg_press", "name": "器械腿举 (倒蹬)", "sets": 3, "reps": "10-12", "tips": "严禁膝盖完全锁死，控制离心" },
+    { "id": "barbell_hip_thrust", "name": "杠铃臀推", "sets": 3, "reps": "10-12", "tips": "顶部挤压臀部1-2秒，下巴微收" },
+    { "id": "romanian_deadlift", "name": "罗马尼亚硬拉", "sets": 3, "reps": "8-10", "tips": "屈髋向后推，感受腘绳肌极限拉伸" },
+    { "id": "leg_extension", "name": "坐姿腿屈伸", "sets": 3, "reps": "12-15", "tips": "离心极慢，撕裂大腿前侧" },
+    { "id": "calf_raises", "name": "提踵", "sets": 3, "reps": "15-20", "tips": "底部充分拉伸，顶部极限收缩" }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "day": "Wednesday",
+  "title": "🛡️ 铠甲背部 & 峰值二头",
+  "author": "Leslie",
+  "exercises": [
+    { "id": "wide_pulldown", "name": "宽距高位下拉", "sets": 4, "reps": "8-12", "tips": "半握，想象手肘向地面砸" },
+    { "id": "barbell_row", "name": "杠铃俯身划船", "sets": 4, "reps": "8-10", "tips": "核心收紧，顶点狠狠挤压肩胛骨" },
+    { "id": "seated_cable_row", "name": "坐姿水平划船", "sets": 4, "reps": "10-12", "tips": "V型窄把，手肘贴紧身体向后拉" },
+    { "id": "single_arm_pulldown", "name": "单手绳索高位下拉", "sets": 3, "reps": "10-12", "tips": "放上时身体顺势倾斜，感受下侧深层拉伸" },
+    { "id": "straight_arm_pulldown", "name": "绳索直臂下压", "sets": 3, "reps": "12-15", "tips": "手臂微屈锁定，彻底排除二头肌" },
+    { "id": "db_curl", "name": "站姿哑铃交替弯举", "sets": 4, "reps": "10-12", "tips": "大臂死死夹紧肋骨，顶部手腕外旋" },
+    { "id": "hammer_curl", "name": "绳索锤式弯举", "sets": 3, "reps": "10-12", "tips": "对握姿势，增加手臂正面视觉厚度" }
+  ]
+}

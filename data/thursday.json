@@ -1,0 +1,13 @@
+{
+  "day": "Thursday",
+  "title": "🔥 完美胸型 & 三头轰炸",
+  "author": "Leslie",
+  "exercises": [
+    { "id": "barbell_bench_press", "name": "杠铃平板卧推", "sets": 4, "reps": "8-10", "tips": "肩胛骨收紧下沉，推起时想象肘部相互靠拢" },
+    { "id": "incline_db_press", "name": "上斜哑铃卧推", "sets": 4, "reps": "8-12", "tips": "哑铃下放至胸部外侧感受拉伸，顶部不要相撞" },
+    { "id": "cable_crossover", "name": "绳索夹胸", "sets": 4, "reps": "10-12", "tips": "身体略前倾，像抱一棵大树，极度挤压中缝" },
+    { "id": "chest_dip", "name": "胸肌双杠臂屈伸", "sets": 3, "reps": "8-12", "tips": "身体前倾，手肘微外展，重心压在下胸" },
+    { "id": "close_grip_bench", "name": "窄距杠铃卧推", "sets": 3, "reps": "8-10", "tips": "握距与肩同宽，手肘贴紧躯干，主攻三头整体厚度" },
+    { "id": "single_reverse_pushdown", "name": "单臂反握绳索下压", "sets": 3, "reps": "10-12", "tips": "掌心朝上反握，孤立刺激三头肌内侧头" }
+  ]
+}

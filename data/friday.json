@@ -1,0 +1,13 @@
+{
+  "day": "Friday",
+  "title": "⛓️ 硬拉主导后侧链 & 核心装甲",
+  "author": "Leslie",
+  "exercises": [
+    { "id": "conventional_deadlift", "name": "传统杠铃硬拉", "sets": 4, "reps": "5-8", "tips": "核心锁死，背部平直，双脚蹬地与臀部向前推同时进行" },
+    { "id": "bulgarian_split_squat", "name": "保加利亚分腿蹲", "sets": 3, "reps": "8-12", "tips": "身体微微前倾，重心压在前腿脚后跟，极致拉伸臀大肌" },
+    { "id": "seated_leg_curl", "name": "坐姿腿弯举", "sets": 4, "reps": "10-12", "tips": "脚尖勾起，离心阶段放慢，彻底榨干腘绳肌" },
+    { "id": "cable_glute_kickback", "name": "绳索单腿后踢", "sets": 3, "reps": "12-15", "tips": "上半身稳定，向后上方踢出，顶点挤压臀部上侧" },
+    { "id": "hanging_leg_raise", "name": "悬垂举腿/顶膝", "sets": 3, "reps": "12-15", "tips": "依靠腹部卷曲发力带动骨盆向上，严禁利用惯性摇晃" },
+    { "id": "cable_crunch", "name": "跪姿绳索卷腹", "sets": 3, "reps": "15-20", "tips": "保持骨盆不动，像卷铺盖一样把胸腔压向骨盆，全程负重" }
+  ]
+}
