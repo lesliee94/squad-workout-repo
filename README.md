@@ -4,7 +4,17 @@
 
 ## 📖 简介
 
-这是一个极简的健身计划展示网站，数据以 JSON 文件管理，前端纯静态渲染，通过 GitHub Pages 自动部署。
+这是一个极简的健身计划展示网站（Vanilla JS + HTML + CSS SPA），数据以 JSON 文件管理，前端纯静态渲染，通过 GitHub Pages 自动部署。支持暗黑模式与移动端响应式设计。
+
+## 📅 五日训练计划
+
+| 训练日 | 重点部位 |
+|--------|---------|
+| 周一 🔥 | 肩部 + 三头 |
+| 周二 🦵 | 腿部 + 臀部 |
+| 周三 🛡️ | 背部 + 二头 |
+| 周四 🔥 | 胸部 + 三头 |
+| 周五 ⛓️ | 后侧链 + 核心 |
 
 ## 🗂 项目结构
 
@@ -13,9 +23,11 @@ squad-workout-repo/
 ├── .github/workflows/pages-deploy.yml
 ├── data/
 │   ├── index.json
-│   ├── shoulder.json
-│   ├── back.json
-│   └── leg.json
+│   ├── monday.json
+│   ├── tuesday.json
+│   ├── wednesday.json
+│   ├── thursday.json
+│   └── friday.json
 ├── assets/
 │   ├── css/style.css
 │   └── js/app.js
@@ -53,7 +65,7 @@ python3 -m http.server 8080
 
 - 训练数据存放在 `data/` 目录，格式为 JSON
 - 修改后请确保 JSON 格式合法
-- 新增训练部位需同步更新 `data/index.json`
+- 新增训练日需同步更新 `data/index.json`
 
 ## 📄 License
 
