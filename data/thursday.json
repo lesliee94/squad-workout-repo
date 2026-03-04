@@ -1,0 +1,16 @@
+{
+  "day": "Thursday",
+  "title": "🔥 胸部冲击 & 三头塑形",
+  "author": "Leslie",
+  "exercises": [
+    { "id": "barbell_bench_press", "name": "杠铃卧推", "sets": 4, "reps": "6-8", "tips": "肩胛后收，足部踩地，杠铃触胸后有力推起" },
+    { "id": "incline_db_press", "name": "上斜哑铃卧推", "sets": 4, "reps": "8-10", "tips": "角度30-45度，顶部哑铃靠近但不相撞" },
+    { "id": "cable_crossover", "name": "绳索夹胸", "sets": 4, "reps": "10-12", "tips": "手臂微弯，以弧线轨迹内收，顶部顿停" },
+    { "id": "pec_deck", "name": "蝴蝶机夹胸", "sets": 3, "reps": "12-15", "tips": "离心慢放，感受胸大肌充分拉伸" },
+    { "id": "decline_push_up", "name": "下斜俯卧撑", "sets": 3, "reps": "力竭", "tips": "上胸收缩充血，动作控制为主" },
+    { "id": "close_grip_bench", "name": "窄距卧推", "sets": 4, "reps": "8-10", "tips": "手距肩宽，肘部夹紧体侧，三头主导" },
+    { "id": "skull_crusher", "name": "仰卧臂屈伸", "sets": 3, "reps": "10-12", "tips": "肘部固定不外展，离心慢放感受三头拉伸" },
+    { "id": "dip", "name": "双杠臂屈伸", "sets": 3, "reps": "8-12", "tips": "身体直立偏前以激活三头，底部不锁肩" },
+    { "id": "overhead_tricep", "name": "绳索颈后臂屈伸", "sets": 3, "reps": "10-12", "tips": "感受三头长头极限拉伸，控制下放" }
+  ]
+}

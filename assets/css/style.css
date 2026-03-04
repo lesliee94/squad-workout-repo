@@ -1,0 +1,94 @@
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  background: #0f1117;
+  color: #e8eaf6;
+  min-height: 100vh;
+}
+
+header {
+  text-align: center;
+  padding: 2rem 1rem 1rem;
+  background: linear-gradient(135deg, #1a1d2e, #232740);
+  border-bottom: 2px solid #3d4066;
+}
+
+header h1 { font-size: 1.8rem; margin-bottom: 0.4rem; }
+header p  { color: #9ca3c8; font-size: 0.95rem; }
+
+/* Day tab navigation */
+#day-tabs {
+  display: flex;
+  overflow-x: auto;
+  gap: 0.5rem;
+  padding: 1rem;
+  background: #13151f;
+  border-bottom: 1px solid #2a2d40;
+}
+
+.tab-btn {
+  flex-shrink: 0;
+  padding: 0.55rem 1.1rem;
+  border: 1px solid #3d4066;
+  border-radius: 2rem;
+  background: transparent;
+  color: #9ca3c8;
+  cursor: pointer;
+  font-size: 0.9rem;
+  transition: background 0.2s, color 0.2s;
+}
+
+.tab-btn:hover  { background: #2a2d40; color: #e8eaf6; }
+.tab-btn.active { background: #4f52a0; border-color: #6b6fd4; color: #fff; }
+
+/* Main workout card */
+main { max-width: 800px; margin: 2rem auto; padding: 0 1rem 4rem; }
+
+.workout-header {
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+.workout-header h2 { font-size: 1.5rem; margin-bottom: 0.3rem; }
+.workout-header .meta { color: #7c82a8; font-size: 0.85rem; }
+
+/* Exercise table */
+.exercise-table {
+  width: 100%;
+  border-collapse: collapse;
+  background: #1a1d2e;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.4);
+}
+
+.exercise-table thead {
+  background: #232740;
+}
+
+.exercise-table th,
+.exercise-table td {
+  padding: 0.75rem 1rem;
+  text-align: left;
+  border-bottom: 1px solid #2a2d40;
+}
+
+.exercise-table th { font-size: 0.8rem; color: #7c82a8; text-transform: uppercase; letter-spacing: 0.05em; }
+.exercise-table td { font-size: 0.9rem; }
+.exercise-table tr:last-child td { border-bottom: none; }
+.exercise-table tr:hover td { background: #20243a; }
+
+.badge {
+  display: inline-block;
+  padding: 0.2rem 0.55rem;
+  background: #2d3155;
+  border-radius: 1rem;
+  font-size: 0.8rem;
+  color: #9ca3c8;
+  white-space: nowrap;
+}
+
+.tips-cell { color: #7c82a8; font-size: 0.82rem; font-style: italic; }
+
+.loading { text-align: center; color: #7c82a8; padding: 3rem; }
+.error   { text-align: center; color: #e57373; padding: 2rem; }

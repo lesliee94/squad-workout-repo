@@ -1,0 +1,16 @@
+{
+  "day": "Wednesday",
+  "title": "🛡️ 背部厚度 & 二头塑形",
+  "author": "Leslie",
+  "exercises": [
+    { "id": "deadlift", "name": "传统硬拉", "sets": 4, "reps": "5-8", "tips": "杠铃贴腿，髋部主导，全程核心收紧" },
+    { "id": "barbell_row", "name": "杠铃俯身划船", "sets": 4, "reps": "8-10", "tips": "躯干平行地面，肘部向后拉，感受背阔肌" },
+    { "id": "pulldown", "name": "高位下拉", "sets": 4, "reps": "10-12", "tips": "肩胛下沉，向胸口方向拉，顶部完全伸展" },
+    { "id": "seated_cable_row", "name": "坐姿绳索划船", "sets": 4, "reps": "10-12", "tips": "胸部挺起，肩胛后收，不要前后摇晃借力" },
+    { "id": "single_arm_row", "name": "单臂哑铃划船", "sets": 3, "reps": "10-12/侧", "tips": "充分拉伸背阔肌，不要耸肩" },
+    { "id": "face_pull", "name": "绳索面拉", "sets": 3, "reps": "12-15", "tips": "外旋激活肩袖，改善肩部健康" },
+    { "id": "barbell_curl", "name": "杠铃弯举", "sets": 4, "reps": "8-10", "tips": "肘部固定，顶部完全收缩，离心慢放" },
+    { "id": "incline_db_curl", "name": "斜托哑铃弯举", "sets": 3, "reps": "10-12", "tips": "手肘低于肩部，极限拉伸二头长头" },
+    { "id": "hammer_curl", "name": "锤式弯举", "sets": 3, "reps": "10-12", "tips": "手腕中立，激活肱肌和肱桡肌" }
+  ]
+}

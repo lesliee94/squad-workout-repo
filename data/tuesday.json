@@ -1,0 +1,16 @@
+{
+  "day": "Tuesday",
+  "title": "🦵 腿部轰炸 & 臀部强化",
+  "author": "Leslie",
+  "exercises": [
+    { "id": "barbell_squat", "name": "杠铃深蹲", "sets": 4, "reps": "8-10", "tips": "膝盖追脚尖，核心收紧，背部保持中立" },
+    { "id": "leg_press", "name": "腿举机", "sets": 4, "reps": "10-12", "tips": "脚掌高位放置以激活臀部，底部不锁膝" },
+    { "id": "romanian_deadlift", "name": "罗马尼亚硬拉", "sets": 4, "reps": "10-12", "tips": "髋部主导，感受腘绳肌拉伸，背部保持平直" },
+    { "id": "leg_curl", "name": "腿弯举", "sets": 3, "reps": "10-12", "tips": "离心慢放，顶峰收缩停顿1秒" },
+    { "id": "hip_thrust", "name": "臀推", "sets": 4, "reps": "10-15", "tips": "顶部挤压臀部，骨盆后倾，下巴收" },
+    { "id": "walking_lunge", "name": "行走弓箭步", "sets": 3, "reps": "12/侧", "tips": "前膝不超脚尖，步伐稳定有力" },
+    { "id": "leg_extension", "name": "腿伸展", "sets": 3, "reps": "12-15", "tips": "顶部完全伸展，感受股四头肌充血" },
+    { "id": "cable_kickback", "name": "绳索臀后踢", "sets": 3, "reps": "12-15/侧", "tips": "髋部不转动，用臀部发力向后踢" },
+    { "id": "standing_calf_raise", "name": "站姿提踵", "sets": 4, "reps": "15-20", "tips": "顶部停顿，离心慢放，充分拉伸" }
+  ]
+}

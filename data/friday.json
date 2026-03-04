@@ -1,0 +1,16 @@
+{
+  "day": "Friday",
+  "title": "⛓️ 后侧链激活 & 核心强化",
+  "author": "Leslie",
+  "exercises": [
+    { "id": "sumo_deadlift", "name": "相扑硬拉", "sets": 4, "reps": "8-10", "tips": "脚尖外旋，大腿内侧发力，膝盖追脚尖" },
+    { "id": "glute_ham_raise", "name": "俯卧腿弯举", "sets": 3, "reps": "10-12", "tips": "臀部收紧，腘绳肌主导，慢起慢落" },
+    { "id": "cable_pull_through", "name": "绳索拉力机后拉", "sets": 3, "reps": "12-15", "tips": "髋部铰链动作，感受臀部和腘绳肌的连接" },
+    { "id": "nordic_curl", "name": "北欧腿弯举", "sets": 3, "reps": "5-8", "tips": "离心控制为主，腘绳肌强化黄金动作" },
+    { "id": "plank", "name": "平板支撑", "sets": 3, "reps": "60秒", "tips": "全身一条线，腹部收紧不塌腰" },
+    { "id": "cable_crunch", "name": "绳索卷腹", "sets": 3, "reps": "12-15", "tips": "以腹部弯曲脊柱，不是以髋部屈曲" },
+    { "id": "hanging_leg_raise", "name": "悬挂举腿", "sets": 3, "reps": "10-15", "tips": "骨盆后倾，下腹部主导，控制下放" },
+    { "id": "pallof_press", "name": "帕洛夫推举", "sets": 3, "reps": "12/侧", "tips": "抗旋转核心训练，身体保持正直" },
+    { "id": "hyperextension", "name": "背伸展", "sets": 3, "reps": "12-15", "tips": "保护腰椎，臀部激活，不要过伸" }
+  ]
+}
