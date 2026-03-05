@@ -4,7 +4,9 @@
   "author": "Leslie",
   "exercises": [
     { "id": "barbell_bench_press", "name": "杠铃平板卧推", "sets": 4, "reps": "8-10", "tips": "肩胛骨收紧下沉，推起时想象肘部相互靠拢" },
+    { "id": "db_bench_press", "name": "哑铃平板卧推", "sets": 4, "reps": "8-12", "tips": "比杠铃下放更深，感受胸大肌充分拉伸，纠正左右肌力不平衡" },
     { "id": "incline_db_press", "name": "上斜哑铃卧推", "sets": 4, "reps": "8-12", "tips": "哑铃下放至胸部外侧感受拉伸，顶部不要相撞" },
+    { "id": "incline_cable_fly", "name": "绳索/哑铃上斜飞鸟", "sets": 3, "reps": "10-12", "tips": "由低向高夹，主攻上胸厚度与中缝，保持手臂微屈锁定角度" },
     { "id": "high_cable_crossover", "name": "高位绳索夹胸 (下胸)", "sets": 4, "reps": "10-12", "tips": "由高向低夹，替代双杠，完美雕刻下胸轮廓" },
     { "id": "pec_deck_fly", "name": "蝴蝶机夹胸 (中缝)", "sets": 3, "reps": "10-12", "tips": "保持手臂微屈，专注胸肌中缝的极致挤压" },
     { "id": "lying_cable_close_grip_press", "name": "仰卧绳索窄距推胸", "sets": 3, "reps": "8-12", "tips": "躺平，手握低位绳索（或V把）在胸前向上窄距推压，榨干胸肌内层与三头肌" },
